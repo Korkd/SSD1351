@@ -3688,7 +3688,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "FAN5331SXCT-ND"
 			(at 67.31 127 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SFV30R-4STBE1HLF"
 			(at 213.36 68.58 0)
 			(effects
 				(font
