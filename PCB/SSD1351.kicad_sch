@@ -3246,7 +3246,7 @@
 				)
 			)
 		)
-		(property "Value" "10uH"
+		(property "Value" "SLW252012S100MST"
 			(at 67.31 116.84 90)
 			(effects
 				(font
@@ -3764,7 +3764,7 @@
 				)
 			)
 		)
-		(property "Value" "600K"
+		(property "Value" "604K"
 			(at 158.75 83.82 90)
 			(effects
 				(font
