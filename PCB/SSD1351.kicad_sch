@@ -2295,22 +2295,28 @@
 		)
 	)
 	(junction
-		(at 134.62 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0b45488d-fce4-4c97-b3db-e210b8bb7390")
-	)
-	(junction
-		(at 134.62 38.1)
+		(at 125.73 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "13558c05-a201-4bd2-b56d-a3e4d6dac426")
 	)
 	(junction
-		(at 109.22 119.38)
+		(at 106.68 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1515064f-452a-4007-914c-f0d42c0c6a60")
+	)
+	(junction
+		(at 160.02 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32325e9b-3a92-4c97-8786-fda6b708ef2b")
+	)
+	(junction
+		(at 153.67 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49d3a233-c221-49d1-8f1a-ea6801e58a2e")
 	)
 	(junction
 		(at 140.97 93.98)
@@ -2319,22 +2325,40 @@
 		(uuid "509f4180-7bed-4b6d-9386-256d6abfc62a")
 	)
 	(junction
-		(at 134.62 40.64)
+		(at 160.02 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6206325f-61dd-46f7-a81b-d39f3345db9f")
+	)
+	(junction
+		(at 146.05 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "862ddf48-d4bd-4efe-8107-1205404fe4b2")
+	)
+	(junction
+		(at 125.73 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88f02231-4ed4-4003-9e92-51b91485fc6f")
 	)
 	(junction
-		(at 140.97 96.52)
+		(at 146.05 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8b4d2c51-7341-49cd-80bb-636c4280672d")
+		(uuid "98c24cca-869b-4687-acb2-67f96aa88604")
 	)
 	(junction
-		(at 96.52 119.38)
+		(at 93.98 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c612c0d-b591-4a86-a0c4-ebb13e4450a7")
+	)
+	(junction
+		(at 35.56 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1d60e97-3b04-4a7a-a148-38a6cbb34abc")
 	)
 	(junction
 		(at 140.97 104.14)
@@ -2343,19 +2367,43 @@
 		(uuid "a9ffc2f7-bdcb-4bad-8cfb-47a707fd3d3b")
 	)
 	(junction
-		(at 50.8 130.81)
+		(at 48.26 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c958901c-cd11-4062-8745-bd1314ebce05")
 	)
 	(junction
-		(at 96.52 138.43)
+		(at 170.18 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca387f36-f0ff-41d9-8c0a-7bd4d3658779")
+	)
+	(junction
+		(at 93.98 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2b13fc6-b872-4dae-8e53-45594dc407c7")
 	)
 	(junction
-		(at 134.62 35.56)
+		(at 138.43 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7a0a20c-57d2-4a3d-a737-171dda5b5b64")
+	)
+	(junction
+		(at 153.67 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7de7300-1dbe-440f-9a11-7a19583b6b3e")
+	)
+	(junction
+		(at 138.43 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2c3d88a-a0cc-47b5-b139-9529d96c2547")
+	)
+	(junction
+		(at 125.73 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9b0facb-7237-44b9-b0cf-8e5f70986e99")
@@ -2367,24 +2415,24 @@
 		(uuid "f27be08b-a717-4e62-bf5e-f8cdc7ecb362")
 	)
 	(junction
-		(at 83.82 119.38)
+		(at 81.28 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fecf1a4d-fa1f-4828-8817-a62838915504")
 	)
 	(wire
 		(pts
-			(xy 38.1 130.81) (xy 50.8 130.81)
+			(xy 132.08 33.02) (xy 138.43 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "02175685-ccc7-4fe0-ba5f-fc345579c819")
+		(uuid "00202a0f-3ff6-4906-b340-24b967a93136")
 	)
 	(wire
 		(pts
-			(xy 93.98 119.38) (xy 96.52 119.38)
+			(xy 91.44 80.01) (xy 93.98 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2394,7 +2442,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 38.1) (xy 134.62 40.64)
+			(xy 125.73 38.1) (xy 125.73 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2404,7 +2452,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 40.64) (xy 156.21 40.64)
+			(xy 163.83 40.64) (xy 152.4 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2414,7 +2462,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 35.56) (xy 154.94 35.56)
+			(xy 173.99 35.56) (xy 158.75 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2424,17 +2472,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 30.48) (xy 173.99 30.48)
+			(xy 154.94 30.48) (xy 173.99 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13e9341e-efef-4453-b2df-b1ef0ceb1d39")
+		(uuid "0c74173f-dbb9-4cb2-bc99-7597f96d143b")
 	)
 	(wire
 		(pts
-			(xy 134.62 35.56) (xy 134.62 38.1)
+			(xy 125.73 35.56) (xy 125.73 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2444,7 +2492,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 30.48) (xy 134.62 33.02)
+			(xy 125.73 25.4) (xy 125.73 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2454,7 +2502,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 130.81) (xy 83.82 119.38)
+			(xy 81.28 91.44) (xy 81.28 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2464,7 +2512,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 146.05) (xy 80.01 157.48)
+			(xy 77.47 106.68) (xy 77.47 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2474,7 +2522,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 38.1) (xy 134.62 38.1)
+			(xy 156.21 38.1) (xy 125.73 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2484,7 +2532,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 148.59) (xy 96.52 157.48)
+			(xy 93.98 109.22) (xy 93.98 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2504,7 +2552,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 104.14) (xy 140.97 107.95)
+			(xy 140.97 104.14) (xy 140.97 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2514,7 +2562,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 40.64) (xy 146.05 40.64)
+			(xy 144.78 40.64) (xy 138.43 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2524,7 +2572,17 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 146.05) (xy 50.8 146.05)
+			(xy 138.43 33.02) (xy 146.05 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35b72343-5399-4502-9f52-30aa1ef4d185")
+	)
+	(wire
+		(pts
+			(xy 54.61 106.68) (xy 48.26 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2541,6 +2599,16 @@
 			(type default)
 		)
 		(uuid "36c91f43-1e99-4d95-af86-23fee8e28d33")
+	)
+	(wire
+		(pts
+			(xy 153.67 96.52) (xy 160.02 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "371b9157-8db2-46fc-8ca8-9fd36f4e050c")
 	)
 	(wire
 		(pts
@@ -2574,7 +2642,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 130.81) (xy 50.8 119.38)
+			(xy 35.56 91.44) (xy 35.56 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46af97d9-75af-4ea2-a179-9223259fe9fe")
+	)
+	(wire
+		(pts
+			(xy 48.26 91.44) (xy 48.26 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2584,13 +2662,23 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 93.98) (xy 140.97 96.52)
+			(xy 154.94 25.4) (xy 154.94 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b34ccf9-28f2-4723-bd18-6a5ffe0cbc80")
+		(uuid "4e34b5d8-96fe-43ad-b282-862f2f3e227a")
+	)
+	(wire
+		(pts
+			(xy 146.05 25.4) (xy 154.94 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52bbf4e5-b1b3-492f-ac09-114f919f612e")
 	)
 	(wire
 		(pts
@@ -2604,17 +2692,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 33.02) (xy 144.78 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "605d7ff9-c732-4560-9efd-1bf3825e83ac")
-	)
-	(wire
-		(pts
-			(xy 50.8 146.05) (xy 50.8 130.81)
+			(xy 48.26 106.68) (xy 48.26 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2624,7 +2702,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 119.38) (xy 110.49 119.38)
+			(xy 153.67 104.14) (xy 160.02 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6273e0cd-8926-4ee7-9258-46e02b04c5c2")
+	)
+	(wire
+		(pts
+			(xy 106.68 80.01) (xy 110.49 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2644,7 +2732,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 40.64) (xy 170.18 40.64)
+			(xy 173.99 40.64) (xy 171.45 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2654,7 +2742,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 40.64) (xy 134.62 40.64)
+			(xy 130.81 40.64) (xy 125.73 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2684,7 +2772,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 130.81) (xy 50.8 130.81)
+			(xy 54.61 91.44) (xy 48.26 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2694,7 +2782,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 40.64) (xy 134.62 44.45)
+			(xy 138.43 25.4) (xy 146.05 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bc00996-1048-4b1e-ae25-736897fe8a2c")
+	)
+	(wire
+		(pts
+			(xy 125.73 40.64) (xy 125.73 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2704,7 +2802,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 119.38) (xy 63.5 119.38)
+			(xy 48.26 80.01) (xy 60.96 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2714,13 +2812,33 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 96.52) (xy 158.75 96.52)
+			(xy 35.56 86.36) (xy 35.56 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8fb66f8a-f442-449e-95ab-7d01a21ef8db")
+		(uuid "82e88a93-41fd-4470-a0ba-b2ac7ccd4e5d")
+	)
+	(wire
+		(pts
+			(xy 146.05 33.02) (xy 173.99 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83456986-84fb-40b4-acfd-8a9dda830c06")
+	)
+	(wire
+		(pts
+			(xy 125.73 25.4) (xy 138.43 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e326b3d-67e1-4640-81e6-22e2917c86c7")
 	)
 	(wire
 		(pts
@@ -2734,17 +2852,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 139.7) (xy 38.1 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "978aa482-da8a-43b7-8379-516f51a0be27")
-	)
-	(wire
-		(pts
-			(xy 109.22 128.27) (xy 109.22 119.38)
+			(xy 106.68 88.9) (xy 106.68 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2754,13 +2862,33 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 93.98) (xy 140.97 93.98)
+			(xy 160.02 96.52) (xy 173.99 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b3febb5-3180-4a97-b1de-bf5612070a74")
+	)
+	(wire
+		(pts
+			(xy 162.56 93.98) (xy 140.97 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a172f672-9bc8-4efe-96d7-f3d107e8f9b2")
+	)
+	(wire
+		(pts
+			(xy 170.18 22.86) (xy 170.18 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5c9e89c-d2dc-425f-9a04-98aaa631c046")
 	)
 	(wire
 		(pts
@@ -2784,7 +2912,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 119.38) (xy 86.36 119.38)
+			(xy 81.28 80.01) (xy 83.82 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2794,7 +2922,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 146.05) (xy 80.01 146.05)
+			(xy 74.93 106.68) (xy 77.47 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2804,7 +2932,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 128.27) (xy 96.52 119.38)
+			(xy 93.98 88.9) (xy 93.98 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2824,7 +2952,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 104.14) (xy 167.64 104.14)
+			(xy 140.97 104.14) (xy 153.67 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2844,7 +2972,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 135.89) (xy 96.52 138.43)
+			(xy 93.98 96.52) (xy 93.98 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2854,7 +2982,17 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 93.98) (xy 151.13 93.98)
+			(xy 160.02 104.14) (xy 167.64 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0ef5c62-691a-4617-b829-a82f151516a0")
+	)
+	(wire
+		(pts
+			(xy 173.99 93.98) (xy 170.18 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2884,7 +3022,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 96.52) (xy 140.97 104.14)
+			(xy 140.97 93.98) (xy 140.97 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2894,17 +3032,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 33.02) (xy 134.62 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db38bce4-e872-4d90-8311-fb21110ecd73")
-	)
-	(wire
-		(pts
-			(xy 96.52 138.43) (xy 96.52 140.97)
+			(xy 93.98 99.06) (xy 93.98 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2914,7 +3042,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 138.43) (xy 96.52 138.43)
+			(xy 74.93 99.06) (xy 93.98 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2924,23 +3052,13 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 130.81) (xy 83.82 130.81)
+			(xy 74.93 91.44) (xy 81.28 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e27fac93-7d8f-4b20-999f-bf6f53e67d5d")
-	)
-	(wire
-		(pts
-			(xy 151.13 96.52) (xy 140.97 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6cbabaa-1ce6-4c78-9fe0-d436e261f079")
 	)
 	(wire
 		(pts
@@ -2954,13 +3072,23 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 38.1) (xy 162.56 38.1)
+			(xy 173.99 38.1) (xy 170.18 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eede7abc-dc6e-4237-b071-e01690c5d705")
+	)
+	(wire
+		(pts
+			(xy 163.83 38.1) (xy 170.18 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef886198-999a-4806-8697-d3002c48c16d")
 	)
 	(wire
 		(pts
@@ -2984,7 +3112,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 138.43) (xy 96.52 138.43)
+			(xy 106.68 99.06) (xy 93.98 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2994,7 +3122,17 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 35.56) (xy 134.62 35.56)
+			(xy 144.78 96.52) (xy 153.67 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f80026c7-de6d-4bdc-b91b-9c72746e2606")
+	)
+	(wire
+		(pts
+			(xy 151.13 35.56) (xy 125.73 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3004,7 +3142,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 119.38) (xy 83.82 119.38)
+			(xy 68.58 80.01) (xy 81.28 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3014,7 +3152,17 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 119.38) (xy 109.22 119.38)
+			(xy 48.26 91.44) (xy 35.56 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb3f7160-7db4-4069-ad27-c19ae834e23c")
+	)
+	(wire
+		(pts
+			(xy 93.98 80.01) (xy 106.68 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3024,7 +3172,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 135.89) (xy 109.22 138.43)
+			(xy 106.68 96.52) (xy 106.68 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3034,23 +3182,13 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 147.32) (xy 38.1 158.75)
+			(xy 35.56 107.95) (xy 35.56 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fd0f02ff-276c-4dd4-8395-9cd065d588e4")
-	)
-	(wire
-		(pts
-			(xy 134.62 33.02) (xy 134.62 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe159af4-e2a0-494f-83e1-53fa7c466c1a")
 	)
 	(label "+3V3"
 		(at 66.04 41.91 0)
@@ -3097,7 +3235,7 @@
 		(uuid "518c7a3c-7870-416c-9aeb-7c539f6f8dbb")
 	)
 	(label "+3V3"
-		(at 167.64 38.1 0)
+		(at 170.18 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3108,7 +3246,7 @@
 		(uuid "6e47d21c-6407-4581-a65a-9c898b0be8e9")
 	)
 	(label "+3V3"
-		(at 38.1 130.81 90)
+		(at 35.56 86.36 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3119,7 +3257,7 @@
 		(uuid "70fd63dd-9e18-47a3-871a-8b0688ec60e7")
 	)
 	(label "+3V3"
-		(at 167.64 96.52 0)
+		(at 144.78 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3163,7 +3301,7 @@
 		(uuid "d5927f18-2a11-4e27-be1f-4f2d55b9cced")
 	)
 	(label "+13V"
-		(at 110.49 119.38 0)
+		(at 110.49 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3196,13 +3334,13 @@
 		(uuid "ea8ce876-e135-45f0-8a46-1fcb628f1708")
 	)
 	(label "+13V"
-		(at 165.1 33.02 0)
+		(at 132.08 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "ecfa586d-7f18-4268-b4ed-2080d80fd6f0")
 	)
@@ -3229,8 +3367,75 @@
 		(uuid "f88b0c8f-224e-4cca-8a5f-acec54ea695f")
 	)
 	(symbol
+		(lib_id "SSD1351:CAP_CERAMIC_0805")
+		(at 160.02 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00201144-e626-4993-b802-d888ac216997")
+		(property "Reference" "C8"
+			(at 161.544 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 162.814 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 160.02 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
+			(at 160.02 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a1d7025-a3f5-411d-bb83-b737b491bedf")
+		)
+		(pin "2"
+			(uuid "3f7ce55c-ba39-4c0a-a607-2c122997ecb5")
+		)
+		(instances
+			(project "SSD1351"
+				(path "/bc283fae-cc55-4e5f-8dbe-6bb2da72f4cb"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
-		(at 67.31 119.38 90)
+		(at 64.77 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3239,23 +3444,23 @@
 		(fields_autoplaced yes)
 		(uuid "0ad42792-f959-4a20-8a53-e0a50e32a276")
 		(property "Reference" "L1"
-			(at 67.31 114.3 90)
+			(at 64.77 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SLW252012S100MST"
-			(at 67.31 116.84 90)
+		(property "Value" "LVS303012H-100M-N"
+			(at 64.77 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder"
-			(at 67.31 119.38 0)
+		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA3012S"
+			(at 64.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3264,7 +3469,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 119.38 0)
+			(at 64.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3273,7 +3478,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 67.31 119.38 0)
+			(at 64.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3298,7 +3503,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 152.4 40.64 0)
+		(at 148.59 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3306,15 +3511,15 @@
 		(dnp no)
 		(uuid "1164e292-87dc-414d-a7f8-ca4de5cd8333")
 		(property "Reference" "D1"
-			(at 155.194 39.37 0)
+			(at 151.384 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1N4148"
-			(at 152.4 43.18 0)
+		(property "Value" "1N4148 0.5W"
+			(at 148.59 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3322,7 +3527,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 152.4 40.64 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3331,7 +3536,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 40.64 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3340,7 +3545,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 152.4 40.64 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,7 +3554,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 152.4 40.64 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3563,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 152.4 40.64 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3449,16 +3654,15 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 90.17 119.38 180)
+		(at 87.63 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "17b7bb87-1d35-41fe-8014-cae891d8437c")
 		(property "Reference" "D3"
-			(at 90.17 113.03 0)
+			(at 87.376 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3466,7 +3670,7 @@
 			)
 		)
 		(property "Value" "BAT54T1G"
-			(at 90.17 115.57 0)
+			(at 87.884 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3474,7 +3678,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 90.17 119.38 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3483,7 +3687,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 119.38 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3696,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 90.17 119.38 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3501,7 +3705,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 119.38 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3510,7 +3714,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 119.38 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3535,7 +3739,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 38.1 143.51 0)
+		(at 35.56 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3544,7 +3748,7 @@
 		(fields_autoplaced yes)
 		(uuid "17bb166c-c465-4da4-9f0e-dd46e01e7bdf")
 		(property "Reference" "C7"
-			(at 41.91 142.2399 0)
+			(at 39.37 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3552,8 +3756,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
-			(at 41.91 144.7799 0)
+		(property "Value" "4.7uF"
+			(at 39.37 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3562,7 +3766,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 39.0652 147.32 0)
+			(at 36.5252 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3571,7 +3775,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 143.51 0)
+			(at 35.56 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3580,7 +3784,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 38.1 143.51 0)
+			(at 35.56 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3605,7 +3809,7 @@
 	)
 	(symbol
 		(lib_id "SSD1351:CAP_CERAMIC_0402")
-		(at 146.05 93.98 270)
+		(at 165.1 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3613,7 +3817,7 @@
 		(dnp no)
 		(uuid "218fc354-b431-4608-b9d1-6b29c4452fb8")
 		(property "Reference" "C4"
-			(at 149.606 93.218 90)
+			(at 168.656 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3621,7 +3825,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 150.114 94.742 90)
+			(at 169.164 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3629,7 +3833,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 146.05 93.98 0)
+			(at 165.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3638,7 +3842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 93.98 0)
+			(at 165.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3647,7 +3851,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
-			(at 146.05 93.98 0)
+			(at 165.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3671,33 +3875,32 @@
 		)
 	)
 	(symbol
-		(lib_id "SSD1351:FAN5331")
-		(at 67.31 138.43 0)
+		(lib_id "SSD1351:CAP_CERAMIC_0805")
+		(at 146.05 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "29e454d4-5d0b-40d1-a812-ae72b8453525")
-		(property "Reference" "U2"
-			(at 67.31 124.46 0)
+		(uuid "28756220-3169-425c-b279-5a185a944edf")
+		(property "Reference" "C9"
+			(at 147.828 24.384 0)
 			(effects
 				(font
-					(size 1.27 1.0795)
+					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "FAN5331SXCT-ND"
-			(at 67.31 127 0)
+		(property "Value" "0.1uF"
+			(at 149.098 26.416 0)
 			(effects
 				(font
-					(size 1.27 1.0795)
+					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "SSD1351:SOT23-5"
-			(at 67.31 138.43 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3706,7 +3909,75 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 138.43 0)
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "464d1138-e12a-4ebe-8f5a-3f6444d3fff4")
+		)
+		(pin "2"
+			(uuid "db01772d-8e79-477e-b9a1-e60d29626d43")
+		)
+		(instances
+			(project "SSD1351"
+				(path "/bc283fae-cc55-4e5f-8dbe-6bb2da72f4cb"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SSD1351:FAN5331")
+		(at 64.77 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29e454d4-5d0b-40d1-a812-ae72b8453525")
+		(property "Reference" "U2"
+			(at 64.77 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+			)
+		)
+		(property "Value" "FAN5331SXCT-ND"
+			(at 64.77 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
+			(at 64.77 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fan5331-d.pdf"
+			(at 64.77 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3715,7 +3986,7 @@
 			)
 		)
 		(property "Description" "FAN5331 - LED/OLED 20V Boost Converter\n\nDigikey: FAN5331SXCT-ND"
-			(at 67.31 138.43 0)
+			(at 64.77 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3764,7 +4035,7 @@
 				)
 			)
 		)
-		(property "Value" "604K"
+		(property "Value" "560K"
 			(at 158.75 83.82 90)
 			(effects
 				(font
@@ -3816,7 +4087,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 157.48 0)
+		(at 77.47 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3825,7 +4096,7 @@
 		(fields_autoplaced yes)
 		(uuid "59861d2c-4d97-42f2-982a-8a014334c4e8")
 		(property "Reference" "#PWR04"
-			(at 80.01 163.83 0)
+			(at 77.47 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3834,7 +4105,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 162.56 0)
+			(at 77.47 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +4113,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 157.48 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3851,7 +4122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 157.48 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3860,7 +4131,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 157.48 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3882,7 +4153,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 166.37 40.64 90)
+		(at 167.64 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3890,15 +4161,15 @@
 		(dnp no)
 		(uuid "59882cc5-b628-4d13-b4ee-eaf7413cf298")
 		(property "Reference" "R1"
-			(at 166.624 42.672 90)
+			(at 167.894 44.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "50"
-			(at 166.37 40.64 90)
+		(property "Value" "50 1/4W"
+			(at 167.894 42.672 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +4177,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 166.37 42.418 90)
+			(at 167.64 42.418 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3915,7 +4186,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 40.64 0)
+			(at 167.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3924,7 +4195,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 166.37 40.64 0)
+			(at 167.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3949,7 +4220,7 @@
 	)
 	(symbol
 		(lib_id "SSD1351:CAP_CERAMIC_0805")
-		(at 139.7 33.02 270)
+		(at 138.43 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3957,15 +4228,15 @@
 		(dnp no)
 		(uuid "5fd4727a-43ee-43f7-8a1c-3d2bc288d89e")
 		(property "Reference" "C1"
-			(at 143.256 32.004 90)
+			(at 139.954 24.384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10uf"
-			(at 144.272 33.782 90)
+		(property "Value" "4.7uF"
+			(at 140.97 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +4244,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 139.7 33.02 0)
+			(at 138.43 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +4253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 33.02 0)
+			(at 138.43 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3991,7 +4262,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
-			(at 139.7 33.02 0)
+			(at 138.43 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +4287,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 96.52 157.48 0)
+		(at 93.98 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4025,7 +4296,7 @@
 		(fields_autoplaced yes)
 		(uuid "65ecdc47-ca3f-4df5-87f1-26b62eaa5245")
 		(property "Reference" "#PWR03"
-			(at 96.52 163.83 0)
+			(at 93.98 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4034,7 +4305,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 162.56 0)
+			(at 93.98 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4042,7 +4313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 157.48 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 157.48 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4331,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 157.48 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,7 +4353,7 @@
 	)
 	(symbol
 		(lib_id "SSD1351:CAP_CERAMIC_0805")
-		(at 149.86 35.56 270)
+		(at 153.67 35.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4090,23 +4361,23 @@
 		(dnp no)
 		(uuid "6e6da221-2682-4423-acaa-8bea46399d38")
 		(property "Reference" "C2"
-			(at 153.416 34.544 90)
+			(at 152.146 34.798 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10uF"
-			(at 154.432 36.322 90)
+		(property "Value" "TC212A475K025Y"
+			(at 144.526 36.576 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 149.86 35.56 0)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
+			(at 153.67 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4115,7 +4386,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 35.56 0)
+			(at 153.67 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4124,7 +4395,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
-			(at 149.86 35.56 0)
+			(at 153.67 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +4455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/UG-2828GDEDF11.pdf"
 			(at 194.31 66.04 0)
 			(effects
 				(font
@@ -4388,7 +4659,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 107.95 0)
+		(at 140.97 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4397,7 +4668,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5f854cf-3ad2-48f2-922d-9557b118fe70")
 		(property "Reference" "#PWR02"
-			(at 140.97 114.3 0)
+			(at 140.97 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4406,7 +4677,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 113.03 0)
+			(at 140.97 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4685,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 107.95 0)
+			(at 140.97 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4423,7 +4694,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 107.95 0)
+			(at 140.97 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4432,7 +4703,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 107.95 0)
+			(at 140.97 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4454,7 +4725,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 158.75 0)
+		(at 35.56 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4463,7 +4734,7 @@
 		(fields_autoplaced yes)
 		(uuid "b66d2343-85fe-46c2-8be7-247e2998fd5d")
 		(property "Reference" "#PWR05"
-			(at 38.1 165.1 0)
+			(at 35.56 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4472,7 +4743,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 163.83 0)
+			(at 35.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4480,7 +4751,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 158.75 0)
+			(at 35.56 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4489,7 +4760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 158.75 0)
+			(at 35.56 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4498,7 +4769,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 158.75 0)
+			(at 35.56 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4791,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 142.24 40.64 0)
+		(at 134.62 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4528,15 +4799,15 @@
 		(dnp no)
 		(uuid "b8c738a0-82f0-4b4c-bf8d-5d31f86f2f2c")
 		(property "Reference" "D2"
-			(at 145.034 39.37 0)
+			(at 137.414 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1N4148"
-			(at 142.24 43.18 0)
+		(property "Value" "1N4148 0.5W"
+			(at 134.62 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4544,7 +4815,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 142.24 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4553,7 +4824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4562,7 +4833,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 142.24 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4571,7 +4842,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 142.24 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4580,7 +4851,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 142.24 40.64 0)
+			(at 134.62 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4605,7 +4876,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 44.45 0)
+		(at 125.73 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4614,7 +4885,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2ca61df-6d82-41b3-a4ca-163b8afa6255")
 		(property "Reference" "#PWR01"
-			(at 134.62 50.8 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,7 +4894,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 49.53 0)
+			(at 125.73 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4631,7 +4902,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 44.45 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4640,7 +4911,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 44.45 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4649,7 +4920,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 44.45 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4671,7 +4942,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 96.52 132.08 180)
+		(at 93.98 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4680,7 +4951,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5c037b6-767f-4ba0-b7b3-c1f3e71f471a")
 		(property "Reference" "R3"
-			(at 99.06 130.8099 0)
+			(at 96.52 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4688,8 +4959,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100K"
-			(at 99.06 133.3499 0)
+		(property "Value" "137K"
+			(at 96.52 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4698,7 +4969,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 98.298 132.08 90)
+			(at 95.758 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,7 +4978,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 132.08 0)
+			(at 93.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,7 +4987,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 96.52 132.08 0)
+			(at 93.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +5012,7 @@
 	)
 	(symbol
 		(lib_id "SSD1351:CAP_CERAMIC_0402")
-		(at 157.48 38.1 270)
+		(at 158.75 38.1 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4749,7 +5020,7 @@
 		(dnp no)
 		(uuid "d90deb76-3b59-45c0-b01c-c1310b0313cc")
 		(property "Reference" "C3"
-			(at 161.036 37.338 90)
+			(at 162.306 37.338 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4757,7 +5028,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 161.544 38.862 90)
+			(at 163.068 39.116 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4765,7 +5036,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 157.48 38.1 0)
+			(at 158.75 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4774,7 +5045,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 38.1 0)
+			(at 158.75 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4783,7 +5054,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
-			(at 157.48 38.1 0)
+			(at 158.75 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4808,7 +5079,7 @@
 	)
 	(symbol
 		(lib_id "SSD1351:CAP_CERAMIC_0805")
-		(at 153.67 96.52 270)
+		(at 153.67 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4816,15 +5087,15 @@
 		(dnp no)
 		(uuid "dffa5a7b-eff8-4082-8f60-169e535c561f")
 		(property "Reference" "C5"
-			(at 157.226 95.504 90)
+			(at 155.194 95.758 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10uF"
-			(at 158.242 97.282 90)
+		(property "Value" "4.7uF"
+			(at 156.464 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4832,7 +5103,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 153.67 96.52 0)
+			(at 153.67 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4841,7 +5112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 96.52 0)
+			(at 153.67 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4850,7 +5121,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n\nCommonly Stocked Parts\n\n0402 - 0402 Surface Mount Capacitors\n\n• 16pF 50V 5% [Digikey: 445-4899-2-ND]\n• 18pF 50V 5% [Digikey: 490-1281-2-ND]\n• 22pF 50V 5% [Digikey: 490-1283-2-ND]\n• 68pF 50V 5% [Digikey: 490-1289-2-ND]\n• 0.1uF 10V 10% [Digikey: 490-1318-2-ND]\n• 1.0uF 6.3V 10% [Digikey: 490-1320-2-ND]\n\n0603 - 0603 Surface Mount Capacitors\n\n• 16 pF 50V 5% [Digikey: 445-5051-2-ND]\n• 22 pF 50V [Digikey: PCC220ACVTR-ND]\n• 33 pF 50V 5% [Digikey: 490-1415-1-ND]\n• 56pF 50V 5% [Digikey: 490-1421-1-ND]\n• 220pF 50V 5% [Digikey: 445-1285-1-ND]\n• 680 pF 50V\n• 2200 pF 50V 5% C0G [Digikey: 445-1297-1-ND]\n• 5600 pF 100V 5% X7R [Digikey: 478-3711-1-ND]\n• 0.1 µF 25V 10% [Digikey: PCC2277TR-ND]\n• 0.22 µF 16V 10% X7R [Digikey: 445-1318-1-ND]\n• 1.0 µF 25V 10% [Digikey: 445-5146-2-ND]\n\n0603 - RF Specific\n\n• 3pF 250V +/-0.1pF RF [Digikey: 712-1347-1-ND]\n• 18 pF 250V 5%  [Digikey: 478-3505-1-ND or 712-1322-1-ND]\n• 56 pF 250V 5% C0G RF [Digikey: 490-4867-1-ND]\n• 68 pF 250V RF [Digikey: 490-4868-1-ND]\n\n0805 - 0805 Surface Mount Capacitors\n\n• 220 pF 250V 2% RF Ceramic Capacitor [Digikey: 712-1398-1-ND]\n• 1000 pF 50V 2% NP0 Ceramic Capacitor [Digikey: 478-3760-1-ND]\n• 0.1 µF 25V 10% Ceramic Capacitor [Digikey: PCC1828TR-ND]\n• 1.0 µF 16V 10% Ceramic Capacitor[Digikey: 490-1691-2-ND]\n• 10.0 µF 10V 10% Ceramic Capacitor[Digikey: 709-1228-1-ND]\n• 10.0 uF 16V 10% Ceramic Capacitor [Digikey: 478-5165-2-ND]\n• 47 uF 6.3V 20% Ceramic Capacitor [Digikey: 587-1779-1-ND or 399-5506-1-ND]\n\n1206 - 1206 Surface Mount Capacitors\n\n• 47uF 10V 20% Ceramic Capacitor [Digikey: 490-5528-1-ND or 399-5508-1-ND or 445-6010-1-ND]\n• 100uF 6.3V -20%, +80% Y5V Ceramic Capacitor (Digikey: 490-4512-1-ND, Mouser: 81-GRM31CF50J107ZE1L)"
-			(at 153.67 96.52 0)
+			(at 153.67 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4875,7 +5146,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 96.52 144.78 180)
+		(at 93.98 105.41 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4884,7 +5155,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0f1b074-03ec-46df-831b-9e4582142793")
 		(property "Reference" "R4"
-			(at 99.06 143.5099 0)
+			(at 96.52 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4892,8 +5163,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K"
-			(at 99.06 146.0499 0)
+		(property "Value" "14.3K"
+			(at 96.52 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +5173,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 98.298 144.78 90)
+			(at 95.758 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4911,7 +5182,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 144.78 0)
+			(at 93.98 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4920,7 +5191,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 96.52 144.78 0)
+			(at 93.98 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,7 +5216,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 109.22 132.08 0)
+		(at 106.68 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4954,7 +5225,7 @@
 		(fields_autoplaced yes)
 		(uuid "f161f845-3bc1-438e-8b7d-287a861b43ed")
 		(property "Reference" "C6"
-			(at 113.03 130.8099 0)
+			(at 110.49 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4962,8 +5233,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 113.03 133.3499 0)
+		(property "Value" "0603B151K500NT"
+			(at 110.49 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4972,7 +5243,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 110.1852 135.89 0)
+			(at 107.6452 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4981,7 +5252,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.22 132.08 0)
+			(at 106.68 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4990,7 +5261,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 109.22 132.08 0)
+			(at 106.68 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
