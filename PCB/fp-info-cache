@@ -1,4 +1,4 @@
-23655639239845092
+23657360773667417
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88872,6 +88872,13 @@ CONNECTORS_FPC_SFV30R_4STBE1HLF
 32
 30
 SSD1351
+IND_LQH3NPH100MMEL
+
+
+0
+2
+2
+SSD1351
 MountingHole_3mm_Pad_Via
 Mounting Hole 2.7mm
 mounting hole 2.7mm
@@ -88886,12 +88893,26 @@ Through hole pin header THT 1x07 2.54mm single row
 7
 7
 SSD1351
-SOT-23_DIO
+TSOT-23-5_D5_MCH
 
-AP2337SA-7 
+MIC2288YD5-TR 
 0
-3
-3
+5
+5
+SSD1351
+TSOT-23-5_D5_MCH-L
+
+MIC2288YD5-TR 
+0
+5
+5
+SSD1351
+TSOT-23-5_D5_MCH-M
+
+MIC2288YD5-TR 
+0
+5
+5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
